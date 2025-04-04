@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Inteligência Artificial na Medicina",
+        "content": "A IA está revolucionando diagnósticos médicos...",
+        "category": "Saúde",
+        "publish_date": "2023-05-15T00:00:00Z"
+    },
+    {
+        "id": "2",
+        "title": "Novas Descobertas em Física Quântica",
+        "content": "Pesquisadores anunciaram avanços significativos...",
+        "category": "Ciência",
+        "publish_date": "2023-06-20T00:00:00Z"
+    },
+    {
+        "id": "3",
+        "title": "Tendências em Tecnologia para 2024",
+        "content": "Blockchain, IA e computação quântica dominarão...",
+        "category": "Tecnologia",
+        "publish_date": "2023-07-10T00:00:00Z"
+    }
+]
