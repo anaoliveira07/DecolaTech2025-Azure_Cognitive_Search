@@ -26,4 +26,4 @@ Projeto demonstrando a implementação de um índice de pesquisa usando Azure AI
    source venv/bin/activate  # Linux/Mac
    .\venv\Scripts\activate  # Windows
    pip install azure-search-documents python-dotenv
-   Crie .env
+   
