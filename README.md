@@ -1,0 +1,1 @@
+# DecolaTech2025-Azure_Cognitive_Search
